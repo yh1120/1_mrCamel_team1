@@ -1,6 +1,6 @@
 ## Mr.Camel Assignment
 - 상품 필터링 기능이 주요 기능입니다.
-- 프로젝트 링크: https://1-mrcamel-team1.netlify.app/
+- 프로젝트 링크: [상품 목록 랜덤 보기](https://1-mrcamel-team1.netlify.app/)
 
 ### Features
 - 00시 기준 최근 조회 이력, 관심 없는 상품 목록 초기화
